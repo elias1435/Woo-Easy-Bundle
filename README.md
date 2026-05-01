@@ -5,6 +5,10 @@
 Author: **Muhammad Elias**  
 Author URI: https://buildwithelias.com/
 
+## Preview
+
+![Woo Easy Bundle Preview](assets/woo-easy-bundle-preview.png)
+
 ## What it does
 
 Woo Easy Bundle lets you create a normal WooCommerce **Simple Product** and turn it into a bundle offer.
