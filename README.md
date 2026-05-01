@@ -7,7 +7,7 @@ Author URI: https://buildwithelias.com/
 
 ## Preview
 
-![Woo Easy Bundle Preview](assets/woo-easy-bundle-preview.png)
+![Woo Easy Bundle Preview](https://github.com/elias1435/Woo-Easy-Bundle/blob/main/woo-easy-bungle.jpg)
 
 ## What it does
 
